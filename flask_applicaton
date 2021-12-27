@@ -1,0 +1,14 @@
+from flask import Flask
+
+app= Flask(__data__)
+
+@app.route("/data>")
+
+def user(/data):
+
+return f "data {"name" : "Sri" , "age" : "21" , "place" : "Chennai"}!"
+
+
+if __data__=="__main__":
+
+  app.run()
